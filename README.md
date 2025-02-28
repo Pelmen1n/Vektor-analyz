@@ -1,1 +1,2 @@
-# Vektor-analyz
+# Vektor-analyz Smetanin Georgiy
+
